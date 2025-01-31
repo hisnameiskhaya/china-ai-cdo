@@ -1,1 +1,35 @@
-
+{
+  "companies": {
+    "NIKEE": {
+      "industry": "Consumer Goods",
+      "rating": "AA+",
+      "baseAmount": 580000000,
+      "volatility": 0.015,
+      "market": "South Africa"
+    },
+    "PFIZLER": {
+      "industry": "Healthcare",
+      "rating": "AAA",
+      "baseAmount": 620000000,
+      "volatility": 0.012,
+      "market": "South Africa"
+    },
+    "MERCEDEEZ": {
+      "industry": "Automotive",
+      "rating": "AA",
+      "baseAmount": 750000000,
+      "volatility": 0.018,
+      "market": "South Africa"
+    }
+  },
+  "metadata": {
+    "lastUpdate": "",
+    "dataVersion": "1.0",
+    "updateFrequency": "daily",
+    "riskParameters": {
+      "defaultVolatility": 0.015,
+      "maxDailyChange": 0.02,
+      "baselineQuarter": "Q4-2024"
+    }
+  }
+}
