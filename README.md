@@ -8,6 +8,7 @@ Repository for managing ChinaAI's tokenized CDO data tracking BRICS exports.
 china-ai-cdo/
 ├── data/
 │   ├── companies/     # Individual company CSVs
+│   ├── tokenprice/    # token price CSVs
 │   ├── config/        # Static configurations
 │   └── historical/    # Historical data backups
 ```
